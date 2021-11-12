@@ -1,4 +1,4 @@
-# Visual Sequence Alignment in VB6
+# :fleur_de_lis: Visual Sequence Alignment in VB6
 Visual Sequence Alignment in VB6
 
 <kbd><img src="https://github.com/Gagniuc/Visual-Sequence-Alignment-in-VB6/blob/main/screenshot/AlignDNA%20in%20VB6%20(5).gif" /></kbd>
